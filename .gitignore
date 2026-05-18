@@ -7,3 +7,4 @@ env/
 .env/
 build/
 dist/
+.ipynb_checkpoints/
