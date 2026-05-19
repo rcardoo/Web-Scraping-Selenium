@@ -438,19 +438,21 @@ max_var_row  = stats.loc[stats["Variacao_pct"].idxmax()]
 conclusoes   = [
     f"Foram analisados <b>{df['Pesquisa'].nunique()} produtos</b> em "
     f"<b>{df['Loja'].nunique()} lojas</b>, totalizando {len(df)} registros "
-    f"(precos R$&nbsp;0 e produtos sem cobertura completa foram excluidos).",
+    f"(precos R$&nbsp;0 e produtos que tinha muita diferença nos preços foram excluidos)."
+    f"Exemplo: no mercado livre e na kabum o produto custa por volta de R$&nbsp;1000 "
+    f"e na amazon custa R$&nbsp;30",
 
-    f"A <b>maior variacao de preco</b> foi no produto "
+    f"A <b>maior variacao de preço</b> foi no produto "
     f"<b>{trunc(max_var_row['Pesquisa'], 40)}</b>: "
     f"{max_var_row['Variacao_pct']:.1f}% de diferenca entre "
     f"{max_var_row['Loja_Menor']} ({brl(max_var_row['Menor_Preco'])}) e "
     f"{max_var_row['Loja_Maior']} ({brl(max_var_row['Maior_Preco'])}).",
 
-    f"Comprando <b>sempre pelo menor preco</b> por produto o total seria "
+    f"Comprando <b>sempre pelo menor preço</b> por produto o total seria "
     f"<b>{brl(menor_total)}</b>, contra <b>{brl(maior_total)}</b> pagando "
-    f"sempre o maior — economia de <b>{brl(economia_tot)} ({eco_pct:.1f}%)</b>.",
+    f"sempre o maior preço, economia de <b>{brl(economia_tot)} ({eco_pct:.1f}%)</b>.",
 
-    f"No <b>ranking geral</b>, a loja com menor preco medio foi "
+    f"No <b>ranking geral</b>, a loja com menor preço medio foi "
     f"<b>{vencedor}</b> (media {brl(menor_media)}). "
     f"Concentrar as compras nela tende a ser a opcao mais simples.",
 ]
