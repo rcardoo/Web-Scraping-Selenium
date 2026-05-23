@@ -1,0 +1,61 @@
+23/05/2026 08:17:57 | INFO | ============================================================
+23/05/2026 08:17:57 | INFO | INÍCIO DA EXECUÇÃO
+23/05/2026 08:17:57 | INFO | ============================================================
+23/05/2026 08:17:57 | INFO | Acessando site: https://www.kabum.com.br
+23/05/2026 08:18:04 | INFO | Pesquisando produto: Caixa de Som JBL Flip 6
+23/05/2026 08:18:09 | INFO | [KaBuM] Produto encontrado | Nome: Caixa de Som Bluetooth Portátil Charge 6 JBL - Preta - JBLCHARGE6BLK | Preço: R$ 996,98
+23/05/2026 08:18:09 | INFO | [KaBuM] Produto encontrado | Nome: Caixa De Som Portátil JBL Flip 6, Bluetooth, 20W RMS, À Prova D'água, 12 Hrs de Bateria, Preto | Preço: R$ 889,00
+23/05/2026 08:18:09 | INFO | [KaBuM] Produto encontrado | Nome: Caixa De Som Portátil JBL Flip 6, Bluetooth, 20W RMS, Preto | Preço: R$ 1.171,01
+23/05/2026 08:18:09 | INFO | Pesquisando produto: Smart TV Samsung 50 polegadas Crystal UHD
+23/05/2026 08:18:15 | INFO | [KaBuM] Produto encontrado | Nome: Samsung Smart TV 50" Crystal UHD 4K U8600F 2025, Xbox Cloud Gaming, Canais Gratuitos, Alexa | Preço: R$ 2.279,05
+23/05/2026 08:18:15 | INFO | [KaBuM] Produto encontrado | Nome: Smart TV 50" Samsung UHD 4K Crystal UHD U8600F UN50U8600FGXZD Tizen Crystal 4K Bixby e Alexa 3 HDMI | Preço: R$ 2.899,00
+23/05/2026 08:18:15 | INFO | [KaBuM] Produto encontrado | Nome: Samsung Smart Tv 58” Crystal Uhd 4k U8500f 2025, XBOX Cloud Gaming, Canais Gratuitos, 7 Anos De Atualização, Ai Energy Mode, Alexa Integrada 58” | Preço: R$ 2.789,90
+23/05/2026 08:18:15 | INFO | Pesquisando produto: Smartphone Xiaomi Redmi Note 15
+23/05/2026 08:18:21 | INFO | [KaBuM] Produto encontrado | Nome: Celular Xiaomi Redmi Note 15 Pro De 256gb 8GB Ram De 6.77" 200+8mp 32mp - Preto (global) | Preço: R$ 1.643,40
+23/05/2026 08:18:21 | INFO | [KaBuM] Produto encontrado | Nome: Celular Xiaomi Redmi Note 15 256gb 8GB Ram De 6.77" 108mp 20mp - Preto | Preço: R$ 1.276,00
+23/05/2026 08:18:21 | INFO | [KaBuM] Produto encontrado | Nome: Celular Xiaomi Redmi Note 15 Pro 5g De 256gb 8GB Ram De 6.83" 200+8mp 20mp - Titanium Color (global) | Preço: R$ 2.015,04
+23/05/2026 08:18:21 | INFO | Pesquisando produto: Smartphone Samsung Galaxy S23 Ultra
+23/05/2026 08:18:26 | INFO | [KaBuM] Produto encontrado | Nome: Usado - Samsung Galaxy S23 Ultra 5G, 512GB, Preto - Muito Bom | Preço: R$ 3.365,10
+23/05/2026 08:18:26 | INFO | [KaBuM] Produto encontrado | Nome: Usado - Smartphone Samsung Galaxy S23 Ultra, 5G, 512GB, Ram 12Gb, Câmera 12Mp, Tela 6.8'', Verde - Excelente | Preço: R$ 3.929,00
+23/05/2026 08:18:26 | INFO | [KaBuM] Produto encontrado | Nome: Samsung Galaxy S23 Ultra 256gb - Verde Escuro - Tenho Minhas Marcas De Uso - Grade C | Preço: R$ 2.936,53
+23/05/2026 08:18:26 | INFO | Acessando site: https://www.mercadolivre.com.br
+23/05/2026 08:18:28 | INFO | Pesquisando produto: Caixa de Som JBL Flip 6
+23/05/2026 08:18:34 | INFO | [Mercado Livre] Produto encontrado | Nome: Caixa De Som Flip 7 Bluetooth Prova Dágua Branco Jbl Bivolt Branco | Preço: R$ 899,51
+23/05/2026 08:18:34 | INFO | [Mercado Livre] Produto encontrado | Nome: Caixa De Som Bluetooth Jbl Charge 6 Azul | Preço: R$ 1.299,52
+23/05/2026 08:18:35 | INFO | [Mercado Livre] Produto encontrado | Nome: Jbl Flip 6 Preto Bluetooth | Preço: R$ 908,80
+23/05/2026 08:18:35 | INFO | Pesquisando produto: Smart TV Samsung 50 polegadas Crystal UHD
+23/05/2026 08:18:39 | INFO | [Mercado Livre] Produto encontrado | Nome: Smart Tv U8600f Crystal Uhd 4k 50 2025 Preto Samsung | Preço: R$ 2.659,91
+23/05/2026 08:18:39 | INFO | [Mercado Livre] Produto encontrado | Nome: Smart Tv Samsung Led 50 Lh50befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v | Preço: R$ 3.152,90
+23/05/2026 08:18:39 | INFO | [Mercado Livre] Produto encontrado | Nome: Smart Tv Samsung Led 50 Lh50befh4ggxzd Led Crystal Processor 4k Uhd Tizen 110v/220v | Preço: R$ 3.152,90
+23/05/2026 08:18:39 | INFO | Pesquisando produto: Smartphone Xiaomi Redmi Note 15
+23/05/2026 08:18:44 | INFO | [Mercado Livre] Produto encontrado | Nome: Redmi Note 15 5g 256gb, Preto | Preço: R$ 1.560,94
+23/05/2026 08:18:44 | INFO | [Mercado Livre] Produto encontrado | Nome: Xiaomi Redmi Note 15 Pro 5g Dual Sim 256gb 8gb Ram Global Preto | Preço: R$ 1.999,14
+23/05/2026 08:18:44 | INFO | [Mercado Livre] Produto encontrado | Nome: Smartphone Xiaomi Redmi Note 15 Pro 5g 256gb 8gb Ram Amoled 6.83 120hz Azul | Preço: R$ 2.159,90
+23/05/2026 08:18:44 | INFO | Pesquisando produto: Smartphone Samsung Galaxy S23 Ultra
+23/05/2026 08:18:48 | INFO | [Mercado Livre] Produto encontrado | Nome: Smartphone Samsung Galaxy S23 Ultra 5g 1 TB 12 GB Ram Preto - Excelente (Recondicionado) | Preço: R$ 4.599,90
+23/05/2026 08:18:48 | INFO | [Mercado Livre] Produto encontrado | Nome: Smartphone Samsung Galaxy S23 Ultra 512gb Creme - Excelente (Recondicionado) | Preço: R$ 4.199,90
+23/05/2026 08:18:48 | INFO | [Mercado Livre] Produto encontrado | Nome: Smartphone Samsung Galaxy S23 Ultra 5g 512gb 12gb Ram Dual Cor Grafite - Bom (Recondicionado) | Preço: R$ 3.379,78
+23/05/2026 08:18:48 | INFO | Acessando site: https://www.amazon.com.br
+23/05/2026 08:18:51 | INFO | Pesquisando produto: Caixa de Som JBL Flip 6
+23/05/2026 08:18:56 | INFO | Capturando elementos da página (nomes, preços e links)...
+23/05/2026 08:18:57 | INFO | [Amazon] Produto encontrado | Nome: JBL, Caixa de Som, FLIP 7 - Preta... | Preço: R$ 699,00
+23/05/2026 08:18:58 | INFO | [Amazon] Produto encontrado | Nome: JBL, Soundbar, Bluetooth, Cinema SB180, 2.1 Canais... | Preço: R$899,00
+23/05/2026 08:18:59 | INFO | [Amazon] Produto encontrado | Nome: Bomber, Caixa de Som Portátil Amplificada Bomber P... | Preço: R$58,25
+23/05/2026 08:18:59 | INFO | Pesquisando produto: Smart TV Samsung 50 polegadas Crystal UHD
+23/05/2026 08:19:04 | INFO | Capturando elementos da página (nomes, preços e links)...
+23/05/2026 08:19:05 | INFO | [Amazon] Produto encontrado | Nome: Samsung Combo Smart TV 75" Crystal UHD 4K U8600F +... | Preço: R$ 5158,23
+23/05/2026 08:19:06 | INFO | [Amazon] Produto encontrado | Nome: Samsung Combo Smart TV 85" Crystal UHD 4K U8100F +... | Preço: R$5.731,37
+23/05/2026 08:19:07 | INFO | [Amazon] Produto encontrado | Nome: Samsung Combo Smart TV 58" Crystal UHD 4K U8500F 2... | Preço: R$477,61
+23/05/2026 08:19:07 | INFO | Pesquisando produto: Smartphone Xiaomi Redmi Note 15
+23/05/2026 08:19:13 | INFO | Capturando elementos da página (nomes, preços e links)...
+23/05/2026 08:19:14 | INFO | [Amazon] Produto encontrado | Nome: Celular Samsung Galaxy A17, 256GB, 8GB, 50MP Tela ... | Preço: R$ 2776,10
+23/05/2026 08:19:15 | INFO | [Amazon] Produto encontrado | Nome: Celular Samsung Galaxy A07 256GB, 8GB, Câm. 50MP, ... | Preço: R$ 2443,00
+23/05/2026 08:19:16 | INFO | [Amazon] Produto encontrado | Nome: Celular Samsung Galaxy A17 5G, 128GB, 4GB, 50MP Te... | Preço: R$ 2776,10
+23/05/2026 08:19:16 | INFO | Pesquisando produto: Smartphone Samsung Galaxy S23 Ultra
+23/05/2026 08:19:21 | INFO | Capturando elementos da página (nomes, preços e links)...
+23/05/2026 08:19:22 | INFO | [Amazon] Produto encontrado | Nome: Smartphone Samsung Galaxy S24 Ultra, Galaxy AI, Se... | Preço: R$ 2776,10
+23/05/2026 08:19:23 | INFO | [Amazon] Produto encontrado | Nome: Celular Samsung Galaxy A57 5G 256GB, 8GB RAM, Câme... | Preço: R$ 2443,00
+23/05/2026 08:19:24 | INFO | [Amazon] Produto encontrado | Nome: Smartphone Samsung Galaxy Z Fold6 512GB 5G, 12GB R... | Preço: R$ 2776,10
+23/05/2026 08:19:24 | INFO | Pesquisa concluída. Iniciando processamento e salvamento dos dados.
+23/05/2026 08:19:24 | INFO | Arquivo CSV 'resultados.csv' gerado e salvo com sucesso.
+23/05/2026 08:19:25 | INFO | Encerrando o navegador.
